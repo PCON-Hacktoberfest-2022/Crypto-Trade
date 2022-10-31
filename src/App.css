@@ -111,7 +111,7 @@ a:hover{
     }
 
     .nav-container{
-        height: 8vh;
+        height: 8.5vh;
         position:fixed;
         width: 100%;
         z-index: 100;
@@ -135,7 +135,7 @@ a:hover{
 }
 
 .coin-detail-container{
-    margin: 30px;
+    margin: 31px;
 }
 
 .coin-heading-container{
