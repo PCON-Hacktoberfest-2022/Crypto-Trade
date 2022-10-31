@@ -381,5 +381,11 @@ width: 70%;
     text-align: center;
     color: #0071bd;
     margin: 2rem;
+
+}
+
+.wrapper-box:hover{
+    color: aliceblue;
+    background-color: black;
     
 }
